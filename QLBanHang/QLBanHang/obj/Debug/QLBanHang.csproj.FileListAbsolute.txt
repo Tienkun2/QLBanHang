@@ -1,0 +1,16 @@
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\EntityFramework.dll
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\EntityFramework.xml
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Login.resources
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.Up2Date
+D:\LapTrinhTrucQuan\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.MainForm_.resources
