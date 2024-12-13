@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bill\AddingBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bill\AddProductToBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bill\EditBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bill\ImagePreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bill\ViewingBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bill\ViewingBillDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Brand\AddingBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Brand\EditBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Brand\ViewingBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\EditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\ViewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImportBill\AddingImportBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImportBill\EditingImportBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImportBill\ViewingImportBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImportBill\ViewingImportBillDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\AddingProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\ModifyingProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\ProductCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\ViewingProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\AddingStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\ModifyingStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\ViewingStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Statistics\ViewingStatictis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WareHouseProduct\AddingWarehouseProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WareHouseProduct\ViewingWarehouseProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warehouse\AddingWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warehouse\EditingWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warehouse\ViewingWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
